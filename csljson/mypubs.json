@@ -183,8 +183,11 @@
     "author": [
       {
         "family": "Anglberger",
-        "given": "Federico LG",
-        "suffix": "Albert J. J. and Faroldi"
+        "given": "Albert J. J."
+      },
+      {
+        "family": "Faroldi",
+        "given": "Federico LG"
       },
       {
         "family": "Korbmacher",
@@ -206,7 +209,7 @@
         "given": "Malte"
       }
     ],
-    "id": "TMS:KORAET",
+    "id": "KORAET",
     "issued": {
       "date-parts": [
         [

@@ -95,8 +95,9 @@ references:
   volume: 29
 - author:
   - family: Anglberger
+    given: Albert J. J.
+  - family: Faroldi
     given: Federico LG
-    suffix: Albert J. J. and Faroldi
   - family: Korbmacher
     given: Johannes
   container-title: Deontic logic and normative systems. 13th
@@ -109,7 +110,7 @@ references:
     given: Allard
   - family: Willer
     given: Malte
-  id: "TMS:KORAET"
+  id: KORAET
   issued: 2016
   page: 16-31
   publisher: College Publications
