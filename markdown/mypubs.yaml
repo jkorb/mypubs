@@ -1,0 +1,200 @@
+---
+nocite: "[@*]"
+references:
+- author:
+  - family: Lisciandra
+    given: Chiara
+  - family: Korbmacher
+    given: Johannes
+  container-title: Journal of Economic Metholody
+  doi: 10.1080/1350178X.2021.1892800
+  id: LISMMO
+  issued: 2021
+  page: 186-206
+  title: Multiple models, one explanation
+  type: article-journal
+  volume: 28
+- author:
+  - family: Anglberger
+    given: Albert
+  - family: Korbmacher
+    given: Johannes
+  container-title: Studia Logica
+  doi: 10.1007/s11225-019-09862-5
+  id: ANGTAN
+  issued: 2020
+  page: 49-83
+  title: Truthmakers and normative conflicts
+  type: article-journal
+  volume: 108
+- author:
+  - family: Alama
+    given: Jesse
+  - family: Korbmacher
+    given: Johannes
+  container-title: The Stanford encyclopedia of philosophy
+  edition: Summer 2021
+  editor:
+  - family: Zalta
+    given: Edward N.
+  id: ALATLC
+  issued: 2021
+  publisher: Metaphysics Research Lab, Stanford University
+  title: The Lambda Calculus
+  type: chapter
+  url: "https://plato.stanford.edu/archives/sum2021/entries/lambda-calculus/"
+- author:
+  - family: Korbmacher
+    given: Johannes
+  - family: Schiemer
+    given: Georg
+  container-title: Philosophia Mathematica
+  doi: 10.1093/philmat/nkx011
+  id: KORWAS
+  issued: 2018
+  page: 295-323
+  title: What are structural properties?
+  type: article-journal
+  volume: 28
+- author:
+  - family: Korbmacher
+    given: Johannes
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-016-9423-9
+  id: KORATO-1
+  issued: 2018
+  page: 161-191
+  title: "Axiomatic theories of partial ground i: The base theory"
+  title-short: Axiomatic theories of partial ground i
+  type: article-journal
+  volume: 47
+- author:
+  - family: Korbmacher
+    given: Johannes
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-017-9444-z
+  id: KORATO-2
+  issued: 2018
+  page: 193-226
+  title: "Axiomatic theories of partial ground II: Partial ground and
+    hierarchies of typed truth"
+  title-short: Axiomatic theories of partial ground II
+  type: article-journal
+  volume: 47
+- author:
+  - family: Korbmacher
+    given: Johannes
+  container-title: Kriterion -- Journal of Philosophy
+  id: KORYAP
+  issue: 2
+  issued: 2015
+  page: 1-10
+  title: Yet another puzzle of ground
+  type: article-journal
+  url: "http://www.kriterion-journal-of-philosophy.org/kriterion/issues/Permanent/Kriterion-korbmacher-01.pdf"
+  volume: 29
+- author:
+  - family: Anglberger
+    given: Federico LG
+    suffix: Albert J. J. and Faroldi
+  - family: Korbmacher
+    given: Johannes
+  container-title: Deontic logic and normative systems. 13th
+    international conference, DEON 2016, bayeruth, germany, july 18-21,
+    2016
+  editor:
+  - family: Roy
+    given: Olivier
+  - family: Tamminga
+    given: Allard
+  - family: Willer
+    given: Malte
+  id: "TMS:KORAET"
+  issued: 2016
+  page: 16-31
+  publisher: College Publications
+  title: An exact truthmaker semantics for permission and obligation
+  type: paper-conference
+  url: "http://www.collegepublications.co.uk/downloads/DEON00001.pdf"
+- author:
+  - family: Korbmacher
+    given: Johannes
+  id: KORPGI
+  issued: 2016
+  publisher: Ludwig-Maximilians-Universität München
+  title: Properties grounded in identity
+  type: thesis
+  url: "http://nbn-resolving.de/urn:nbn:de:bvb:19-202959"
+- author:
+  - family: Korbmacher
+    given: Johannes
+  - family: Pleitz
+    given: Martin
+  - family: Schmidt
+    given: Julia
+  container-title: Freie subjekte in der welt der physik. Die
+    analytische transzendentalphilosophie von peter rohs in der
+    diskussion
+  editor:
+  - family: Karaku
+    given: ̧ Attila
+  - family: Pleitz
+    suffix: Martin
+  - family: Weidemann
+    given: Christian
+  id: KORDFE
+  issued: 2014
+  page: 133-56
+  publisher: Mentis
+  publisher-place: Münster
+  title: Dynamisierte feldtheorie
+  type: chapter
+- author:
+  - family: Korbmacher
+    given: Johannes
+  - family: Pohlmann
+    given: Markus
+  - family: Schmoranzer
+    given: Sebastian
+  - family: Seide
+    given: Ansgar
+  container-title: John r. Searle. Thinking about the real world
+  editor:
+  - family: Franken
+    given: Dirk
+  - family: Karaku
+    given: ̧ Attila
+  - family: Michel
+    given: Jan G.
+  id: KORSOE
+  issued: 2010
+  page: 133-42
+  publisher: Ontos
+  publisher-place: Frankfurt, a.M.
+  title: Searle on external realism
+  type: chapter
+- author:
+  - family: Korbmacher
+    given: Johannes
+  - family: Schmoranzer
+    given: Sebastian
+  - family: Seide
+    given: Ansgar
+  container-title: Richard swinburne. Christian philosophy in a modern
+    world
+  editor:
+  - family: Mößner
+    given: Nicola
+  - family: Schmoranzer
+    given: Sebastian
+  - family: Weidemann
+    given: Christian
+  id: KORSFS
+  issued: 2009
+  page: 47-60
+  publisher: Ontos
+  publisher-place: Frankfurt, a.M.
+  title: Simply false? Swinburne on simplicity as evidence of truth
+  type: chapter
+---
+
