@@ -199,5 +199,21 @@ references:
   publisher-place: Frankfurt, a.M.
   title: Simply false? Swinburne on simplicity as evidence of truth
   type: chapter
+- author:
+  - family: Korbmacher
+    given: Johannes
+  container-title: Wörterbuch zur sprach- und kommunikationswissenschaft
+  editor:
+  - family: Demmerling
+    given: Christoph
+  - family: Stekeler-Weithofer
+    given: Pirmin
+  id: KORWZS
+  issued: 2013
+  publisher: De Gruyter
+  title: Contributing author
+  type: chapter
+  url: "https://www.degruyter.com/database/wsk/search?query=korbmacher&documentVisibility=all"
+  volume: 15. Sprachphilosophie
 ---
 
