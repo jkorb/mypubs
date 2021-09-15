@@ -10,6 +10,7 @@ references:
   doi: 10.1080/1350178X.2021.1892800
   id: LISMMO
   issued: 2021
+  other-ids: mumo
   page: 186-206
   title: Multiple models, one explanation
   type: article-journal
@@ -19,10 +20,11 @@ references:
     given: Albert
   - family: Korbmacher
     given: Johannes
-  container-title: Studia Logica
+  container-title: studia logica
   doi: 10.1007/s11225-019-09862-5
   id: ANGTAN
   issued: 2020
+  other-ids: trnoco
   page: 49-83
   title: Truthmakers and normative conflicts
   type: article-journal
@@ -84,7 +86,7 @@ references:
 - author:
   - family: Korbmacher
     given: Johannes
-  container-title: Kriterion -- Journal of Philosophy
+  container-title: Kriterion
   id: KORYAP
   issue: 2
   issued: 2015
@@ -121,6 +123,7 @@ references:
     given: Johannes
   id: KORPGI
   issued: 2016
+  other-ids: mythesis
   publisher: Ludwig-Maximilians-Universität München
   title: Properties grounded in identity
   type: thesis

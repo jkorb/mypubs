@@ -20,6 +20,7 @@
         ]
       ]
     },
+    "other-ids": "mumo",
     "page": "186-206",
     "title": "Multiple models, one explanation",
     "type": "article-journal",
@@ -37,7 +38,7 @@
         "given": "Johannes"
       }
     ],
-    "container-title": "Studia Logica",
+    "container-title": "studia logica",
     "id": "ANGTAN",
     "issued": {
       "date-parts": [
@@ -46,6 +47,7 @@
         ]
       ]
     },
+    "other-ids": "trnoco",
     "page": "49-83",
     "title": "Truthmakers and normative conflicts",
     "type": "article-journal",
@@ -163,7 +165,7 @@
         "given": "Johannes"
       }
     ],
-    "container-title": "Kriterion – Journal of Philosophy",
+    "container-title": "Kriterion",
     "id": "KORYAP",
     "issue": "2",
     "issued": {
@@ -238,6 +240,7 @@
         ]
       ]
     },
+    "other-ids": "mythesis",
     "publisher": "Ludwig-Maximilians-Universität München",
     "title": "Properties grounded in identity",
     "type": "thesis"
