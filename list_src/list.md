@@ -20,3 +20,8 @@ This is a complete list of my academic publications, sorted backwards by year:
 ::: {#refs}
 :::
 
+\vfill
+
+\begin{center}
+    \tiny Last compiled: \today
+\end{center}
