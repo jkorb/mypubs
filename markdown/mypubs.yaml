@@ -10,6 +10,7 @@ references:
   doi: 10.1080/1350178X.2021.1892800
   id: LISMMO
   issued: 2021
+  note: pr
   other-ids: mumo
   page: 186-206
   title: Multiple models, one explanation
@@ -24,6 +25,7 @@ references:
   doi: 10.1007/s11225-019-09862-5
   id: ANGTAN
   issued: 2020
+  note: pr
   other-ids: trnoco
   page: 49-83
   title: Truthmakers and normative conflicts
@@ -41,6 +43,7 @@ references:
     given: Edward N.
   id: ALATLC
   issued: 2021
+  note: pr
   publisher: Metaphysics Research Lab, Stanford University
   title: The Lambda Calculus
   type: chapter
@@ -54,6 +57,7 @@ references:
   doi: 10.1093/philmat/nkx011
   id: KORWAS
   issued: 2018
+  note: pr
   page: 295-323
   title: What are structural properties?
   type: article-journal
@@ -65,6 +69,7 @@ references:
   doi: 10.1007/s10992-016-9423-9
   id: KORATO-1
   issued: 2018
+  note: pr
   page: 161-191
   title: "Axiomatic theories of partial ground i: The base theory"
   title-short: Axiomatic theories of partial ground i
@@ -77,6 +82,7 @@ references:
   doi: 10.1007/s10992-017-9444-z
   id: KORATO-2
   issued: 2018
+  note: pr
   page: 193-226
   title: "Axiomatic theories of partial ground II: Partial ground and
     hierarchies of typed truth"
@@ -90,6 +96,7 @@ references:
   id: KORYAP
   issue: 2
   issued: 2015
+  note: pr
   page: 1-10
   title: Yet another puzzle of ground
   type: article-journal
@@ -113,6 +120,7 @@ references:
     given: Malte
   id: KORAET
   issued: 2016
+  note: pr
   page: 16-31
   publisher: College Publications
   title: An exact truthmaker semantics for permission and obligation
@@ -215,5 +223,16 @@ references:
   type: chapter
   url: "https://www.degruyter.com/database/wsk/search?query=korbmacher&documentVisibility=all"
   volume: 15. Sprachphilosophie
+- author:
+  - family: Korbmacher
+    given: Johannes
+  container-title: The Reasoner
+  id: KORTSE
+  issued: 2019
+  page: 27-28
+  title: What's hot in mathematical philosophy? Truthmaker semantics
+  type: article-journal
+  url: "https://blogs.kent.ac.uk/thereasoner/files/2019/03/TheReasoner-134.pdf"
+  volume: 13
 ---
 
