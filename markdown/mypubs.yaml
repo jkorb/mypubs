@@ -163,6 +163,18 @@ references:
 - author:
   - family: Korbmacher
     given: Johannes
+  container-title: Review of Symbolic Logic
+  doi: 10.1017/s175502032200020x
+  id: KORPSF
+  issued: 2022
+  note: pr
+  page: 1-37
+  title: Proof systems for exact entailment
+  type: article-journal
+  volume: Accepted manuscript
+- author:
+  - family: Korbmacher
+    given: Johannes
   - family: Pohlmann
     given: Markus
   - family: Schmoranzer
